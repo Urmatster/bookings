@@ -1,4 +1,4 @@
-# Bookins and Reservation
+# Bookings and Reservation
 
 This is the repository for my learning project
  - Built in go version 1.21.5
