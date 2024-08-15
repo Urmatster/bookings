@@ -9,7 +9,8 @@
 
 
 
-            <form action="" method="get" novalidate class="needs-validation">
+            <form action="/search-availability" method="post" novalidate class="needs-validation">
+              <input type="hidden" name="csrf_token" value="{{.CSRFToken}}">
                 
 
               <div class="form-row">

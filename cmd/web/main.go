@@ -6,9 +6,9 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/Urmatster/bookings/pkg/config"
-	"github.com/Urmatster/bookings/pkg/handlers"
-	"github.com/Urmatster/bookings/pkg/render"
+	"github.com/Urmatster/bookings/internal/config"
+	"github.com/Urmatster/bookings/internal/handlers"
+	"github.com/Urmatster/bookings/internal/render"
 	"github.com/alexedwards/scs/v2"
 )
 
